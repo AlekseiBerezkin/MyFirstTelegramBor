@@ -8,7 +8,7 @@ namespace BotTelegram
     
     class Program
     {
-        const string TOKEN = "1798560868:AAGtZR48DsiaSIF0cCH4itNb44Qkz5SnSIU";
+        const string TOKEN = "TOKEN";
         public static SQLiteConnection DB;
         static void Main(string[] args)
         {
